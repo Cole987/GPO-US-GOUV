@@ -1,6 +1,6 @@
 # 		**GPO US Government :** 
 
-Here is the list of the GPO that the US Government us to secure, there computer. 
+Here is the list of the GPO that the US Government use to secure, there computer. 
 
 You will find on this Hub for now GPO from :
 
@@ -12,7 +12,7 @@ You will find on this Hub for now GPO from :
 
 All of this need to be use in LocalGPO for being implemented inside your computer policy ! 
 
-You can find access of an version that support Windows XP, Vista, 7, 8, 10, 11 here : https://github.com/Cole987/Local-GPO-For-Windows-10-11
+You can find an access to a version which support Windows XP, Vista, 7, 8, 10, 11 here : https://github.com/Cole987/Local-GPO-For-Windows-10-11
 
 
 
